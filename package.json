@@ -1,0 +1,22 @@
+{
+  "name": "image-list-generator",
+  "version": "1.0.0",
+  "description": "get an image array and write out to target folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMrookie/image-list-generator.git"
+  },
+  "author": "rookie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CMrookie/image-list-generator/issues"
+  },
+  "homepage": "https://github.com/CMrookie/image-list-generator#readme",
+  "dependencies": {
+    "yargs": "^11.0.0"
+  }
+}
